@@ -8,8 +8,7 @@ This readme is just a semi-chaotic list of notes and references
 gathered while playing around with Mojo.
 
 The `/notes` directory contains additional misc notes & snippets. I'll move
-things there as appropriate, to keep this file as more of a high-level overview,
-task list, resource dump, and scratchpad.
+things there as appropriate.
 
 ## immediate tasks
 
