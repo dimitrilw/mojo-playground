@@ -16,8 +16,9 @@ things there as appropriate.
 - figure out configs
   - auto-formatting
   - tests
-    - first, how really do them? Pytest work?
-    - second, how auto-run in VS-Code to catch changes?
+    - first, what is best-practice? Pytest?
+    - second, set-up VS-Code like Google's Go extension to auto-run and make the
+      entire output all pretty: per-test lights, linkage to code lines, etc.
   - auto-completion in VS-Code
 - packaging
   - package management
