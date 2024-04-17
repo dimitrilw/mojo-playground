@@ -85,3 +85,9 @@ This is where I'm dumping links to resources I want to check out when I have tim
 - [py2mojo](https://github.com/msaelices/py2mojo)
 - [Mojo Types repo](https://github.com/Moosems/Mojo-Types)
 - [learn mojo](https://github.com/better-mojo/learn-mojo)
+
+## misc notes
+
+Neither [tokei](https://github.com/XAMPPRocky/tokei)
+nor [tcount](https://github.com/RRethy/tcount)
+appear to support Mojo as of 17-Apr-2024.
