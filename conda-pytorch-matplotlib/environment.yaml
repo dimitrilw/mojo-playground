@@ -1,0 +1,7 @@
+name: mojo-plotter
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.12
+  - pytorch

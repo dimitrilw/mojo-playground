@@ -29,6 +29,7 @@
     // packages
     "discordpy",
     "pytest",
+    "matplotlib",
 
     // misc other
     "roguelike",
