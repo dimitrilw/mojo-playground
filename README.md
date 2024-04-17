@@ -13,6 +13,11 @@ things there as appropriate.
 ## immediate tasks
 
 - tidy this readme
+- finish watching all Youtube videos in my Mojo playlist
+- read the backlog of articles at:
+  - [Modular newsletters](https://www.modular.com/newsletters)
+  - [mojo-dojo](https://mojodojo.dev/)
+  - [joy of mojo](https://joyofmojo.com/)
 - figure out configs
   - auto-formatting
   - tests
@@ -37,10 +42,12 @@ things there as appropriate.
 - Awesome Mojo repos
   - [mojicians](https://github.com/mojicians/awesome-mojo)
   - [ego](https://github.com/ego/awesome-mojo)
+  - [mojo is awesome](https://github.com/mfranzon/mojo-is-awesome)
+- redo [Advent of Code](https://adventofcode.com/) in Mojo
 
 ## future projects
 
-I'd like to do a few little projects with Mojo.
+I'd like to contribute to a few Mojo projects.
 
 - Discord bot
   - model on discord.py
@@ -51,12 +58,19 @@ I'd like to do a few little projects with Mojo.
   - Cloudflare Workers
 - roguelike:
   - from bare-bones
-  - as a "how to refactor py to mojo" exercise
+  - as a "how to refactor py to mojo" exercise with a py roguelike
 - todo.app
 - 2048 game
-- Mojo website? Like, make a demo blog?
+- Mojo website? Like, make some demo blog or something just to show Mojo Django,
+  or whatever.
 - search for other code samples to explore
 - mojo mud server -- like Evennia, but in Mojo
+- Mojo Podcast?
+
+## code challenges
+
+- perhaps do local setup with CodeAbbey for solving via Mojo?
+  - [directions](https://www.codeabbey.com/index/wiki/running)
 
 ## resources to check-out
 
@@ -70,3 +84,4 @@ This is where I'm dumping links to resources I want to check out when I have tim
 - [mojo learning](https://github.com/rd4com/mojo-learning)
 - [py2mojo](https://github.com/msaelices/py2mojo)
 - [Mojo Types repo](https://github.com/Moosems/Mojo-Types)
+- [learn mojo](https://github.com/better-mojo/learn-mojo)
