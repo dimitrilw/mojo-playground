@@ -24,6 +24,7 @@ things there as appropriate.
     - first, what is best-practice? Pytest?
     - second, set-up VS-Code like Google's Go extension to auto-run and make the
       entire output all pretty: per-test lights, linkage to code lines, etc.
+    - any doctest like capability?
   - auto-completion in VS-Code
 - packaging
   - package management

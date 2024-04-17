@@ -24,12 +24,13 @@
     "mojicians",
 
     // python stuff
-    "miniconda",
     "libpython",
+    "miniconda",
     // packages
     "discordpy",
-    "pytest",
+    "doctest",
     "matplotlib",
+    "pytest",
 
     // misc other
     "roguelike",
