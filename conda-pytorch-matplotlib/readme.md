@@ -53,3 +53,16 @@ However, I'm not sure that this is necessary. When I ran `mojo main.mojo` withou
 setting the `MOJO_PYTHON_LIBRARY` variable, it worked fine. My system seemed to
 correctly pass Mojo to the correct Conda environment. So until I have a reason
 to set this variable, I'm going to leave it alone.
+
+Of note: if you wish to clean up after yourself, you can remove the Conda
+environment with:
+
+```bash
+conda remove -n mojo-plotter --all
+```
+
+And if you need to clear package caches, then run:
+
+```bash
+conda clean --all
+```
