@@ -31,12 +31,14 @@
     "doctest",
     "matplotlib",
     "pytest",
+    "typer",
 
     // misc other
     "roguelike",
     "evennia", // MUD engine
     "tokei",
     "tcount",
+    "GDAL",
     "opensource"
   ]
 }
