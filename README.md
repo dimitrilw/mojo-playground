@@ -72,6 +72,7 @@ then perhaps I need to contribute and help build a few Mojo projects.
   - H3 -- here's the [python h3 package](https://github.com/uber/h3-py/)
 - logging framework
 - regex
+- justfile in Mojo? "do file" or something?
 
 ## code challenges
 

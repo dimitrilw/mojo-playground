@@ -26,10 +26,10 @@ mojo main.mojo
 Next, export the Conda environment via:
 
 ```bash
-conda env export --from-history > environment.yaml
+conda env export --from-history | grep -v "^prefix:" > environment.yaml
 ```
 
-Edit the resulting environment.yaml file to remove the `prefix` line.
+This results in an environment.yaml file without the `prefix` line.
 
 Now the Conda environment can be recreated with:
 
