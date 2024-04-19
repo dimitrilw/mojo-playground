@@ -14,20 +14,24 @@ fn main():
     var b = Optional[String](None)
 
     if a:
-        print("1:", a.value()) # prints "A"
+        print("1:", a.value())
     if b: # b is None, so this block is not executed
         print("2:", b.value())
     
     var c = a.or_else("C")
-    print("3:", c) # prints "A"
+    print("3:", c)
 
     var d = b.or_else("D")
-    print("4:", d) # prints "D"
+    print("4:", d)
 
     alias DEFAULT = "DEFAULT"
 
     var e = a.or_else(DEFAULT)
-    print("5:", e) # prints "A"
+    print("5:", e)
 
     var f = b.or_else(DEFAULT)
-    print("6:", f) # prints "DEFAULT"
+    print("6:", f)
+
+    var x: Optional[StringLiteral]
+    x = Optional("X")
+    print("7:", x.value())
