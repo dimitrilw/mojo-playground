@@ -1,5 +1,5 @@
 @value
-@register_passable#("trivial")
+@register_passable("trivial")
 struct Color(Stringable):
     var _kind: UInt8
     alias RED = Self(0)
