@@ -13,8 +13,13 @@ trait HasMojo:
 
 @value
 struct ThisScript(HasMojo):
-    @staticmethod
-    fn getMojo() -> Bool:
+    fn getMojo(self) -> Bool:
+        """ Note that this could be a staticmethod, but I'm leaving it with
+            the self parameter in-place as use by the commented-out line below.
+        """
+        # LSP responds: 'ThisScript' value has no attribute 'MOJO'
+        # return self.MOJO
+
         return HasMojo.MOJO
 
 fn main():
