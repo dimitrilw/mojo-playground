@@ -96,6 +96,8 @@ This is where I'm dumping links to resources I want to check out when I have tim
 
 ## misc notes
 
-Neither [tokei](https://github.com/XAMPPRocky/tokei)
-nor [tcount](https://github.com/RRethy/tcount)
-appear to support Mojo as of 17-Apr-2024.
+- Neither [tokei](https://github.com/XAMPPRocky/tokei)
+  nor [tcount](https://github.com/RRethy/tcount)
+  appear to support Mojo as of 17-Apr-2024.
+- Highlight.js (used by Discord, and others) does not yet support Mojo,
+  as of 22-Apr-2024.
