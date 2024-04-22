@@ -13,7 +13,8 @@ trait HasMojo:
 
 @value
 struct ThisScript(HasMojo):
-    fn getMojo(self: ThisScript) -> Bool:
+    @staticmethod
+    fn getMojo() -> Bool:
         return HasMojo.MOJO
 
 fn main():
